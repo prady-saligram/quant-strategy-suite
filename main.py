@@ -201,7 +201,7 @@ if __name__ == "__main__":
     
     # Ensure correct git identity
     subprocess.run(["git", "config", "user.name",  "Prady Saligram"], check=True)
-    subprocess.run(["git", "config", "user.email", "psaligram@stanford.edu"], check=True)
+    subprocess.run(["git", "config", "user.email", "prady.saligram@gmail.com"], check=True)
 
     # Change to script's directory
     os.chdir(os.path.dirname(__file__))
