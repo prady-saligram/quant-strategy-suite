@@ -6,7 +6,6 @@ Your all-in-one Python toolkit for designing, backtesting, and deploying algorit
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/python-3.8%2B-blue.svg" alt="Python 3.8+"/></a>
-  <a href="#"><img src="https://img.shields.io/badge-build-passing-brightgreen.svg" alt="Build Status"/></a>
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="License"/></a>
 </p>
 
@@ -221,3 +220,4 @@ Distributed under the [MIT License](LICENSE). See `LICENSE` for details.
 
 > Built with ♥ by Prady Saligram
 > *Because spreadsheets are for mortals – real quants automate it all.*
+
