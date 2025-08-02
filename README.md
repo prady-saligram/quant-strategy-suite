@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/logo.svg" alt="Quant Strategy Suite" width="200"/>
-</p>
-
 # Quant Strategy Suite
 
 > **“Trade like a quant, build like an engineer.”**
@@ -225,28 +221,6 @@ Distributed under the [MIT License](LICENSE). See `LICENSE` for details.
 
 > Built with ♥ by Prady Saligram
 > *Because spreadsheets are for mortals – real quants automate it all.*
-
-> Last touched: 2025-07-11 01:30 UTC
-
-> Last touched: 2025-07-12 05:48 UTC
-
-> Last touched: 2025-07-12 14:41 UTC
-
-> Last touched: 2025-07-12 20:36 UTC
-
-> Last touched: 2025-07-13 13:02 UTC
-
-> Last touched: 2025-07-13 21:52 UTC
-
-> Last touched: 2025-07-25 01:57 UTC
-
-> Last touched: 2025-07-25 22:36 UTC
-
-> Last touched: 2025-07-26 21:17 UTC
-
-> Last touched: 2025-07-27 23:57 UTC
-
-> Last touched: 2025-07-30 09:54 UTC
 
 > Last touched: 2025-07-31 03:13 UTC
 
